@@ -65,7 +65,7 @@ ax.set_ylabel("Fare($USD)")
 from matplotlib import style
 style.use('fivethirtyeight')
 ```
-![alt_text](Analysis/PyBer_fare_summary.png)
+![alt_text](https://github.com/HotMochaNoWhip/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ---
 ## Summary
